@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">SynergyTrains</string>
+    <string name="direct_route">Только прямой</string>
+    <string name="return_route">С обратным</string>
+    <string name="from_et">Откуда</string>
+    <string name="to_et">Куда</string>
+    <string name="whet_et">Когда</string>
+    <string name="when_return_et">Обратно</string>
+    <string name="price_def">Стоимость: ₽3000</string>
+    <string name="buy_text">Купить</string>
+    <string name="buy_text_2">Купить билет</string>
+
+    <string-array name="ticket_class_list">
+        <item>Эконом</item>
+        <item>Бизнес</item>
+        <item>Премиум</item>
+    </string-array>
 </resources>
